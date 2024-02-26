@@ -1,0 +1,137 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: rgb(194, 248, 113);
+}
+
+.box1 {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+    margin-left: 650px;
+    margin-top: 300px;
+
+}
+
+.card1 {
+    width: 50px;
+    height: 100px;
+    background-color: blue;
+}
+
+.card2 {
+    width: 50px;
+    height: 100px;
+    background-color: white;
+}
+
+.card3 {
+    width: 50px;
+    height: 100px;
+    background-color: red;
+}
+
+.box2 {
+    width: 150px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+    margin-left: 900px;
+    margin-top: -100px;
+
+}
+
+.card4 {
+    width: 50px;
+    height: 100px;
+    background-color: green;
+}
+
+.card5 {
+    width: 50px;
+    height: 100px;
+    background-color: white;
+}
+
+.card6 {
+    width: 50px;
+    height: 100px;
+    background-color: red;
+}
+
+.box3 {
+    position: relative;
+    width: 150px;
+    height: 100px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+    left: 1120px;
+    top: -100px;
+
+}
+
+.card7 {
+    width: 150px;
+    height: 33px;
+    background-color: black;
+}
+
+.card8 {
+    width: 150px;
+    height: 33px;
+    background-color: red;
+}
+
+.card9 {
+    width: 150px;
+    height: 33px;
+    background-color: yellow;
+}
+
+.box4 {
+    width: 150px;
+    height: 100px;
+    /* display: flex; */
+    align-items: center;
+    justify-content: center;
+    background-color: dodgerblue;
+    margin-left: 1340px;
+    margin-top: -200px;
+}
+
+.card10 {
+    width: 150px;
+    height: 33px;
+    background-color: white;
+}
+
+.card11 {
+    width: 150px;
+    height: 33px;
+    background-color: rgb(7, 205, 63);
+}
+
+.card12 {
+    width: 150px;
+    height: 33px;
+    background-color: red;
+}
+
+.box5 {
+    width: 150px;
+    height: 100px;
+    background: linear-gradient(135deg, darkgreen 33.3%,yellow\
+     ,red 33.3%);
+}
